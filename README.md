@@ -58,5 +58,5 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 [Detail Project Report](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/05%20Detailed%20Project%20Report.pdf)
 
 ## 🎉 Help Me Improve
-Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
+Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me in https://www.linkedin.com/in/kummitha-jahnavi/  I will address them asap.
 

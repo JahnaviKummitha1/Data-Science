@@ -60,11 +60,3 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 ## 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
 
-## LinkedIn Post 📲
-[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6971406322663600128/)
-
-## Youtube Video 🎬
-[Video post](https://youtu.be/yeucgBmRu0Q)
-
-## 📫 Feedback
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-doke/)
